@@ -236,69 +236,6 @@ SoundEngine.prototype.loadSoundBackground = function () {
             case "1":
                 audioName = "Restaurant.mp3";
                 break;
-            case "2":
-                audioName = "Babble-Male.mp3";
-                break;
-            case "3":
-                audioName = "Babble-Male-Female.mp3";
-                break;
-            case "4":
-                audioName = "Blower.mp3";
-                break;
-            case "5":
-                audioName = "Brake Press.mp3";
-                break;
-            case "6":
-                audioName = "Bulldozer.mp3";
-                break;
-            case "7":
-                audioName = "Chisel.mp3";
-                break;
-            case "8":
-                audioName = "Continuous Haulage.mp3";
-                break;
-            case "9":
-                audioName = "Continuous Miner.mp3";
-                break;
-            case "10":
-                audioName = "Generic-High.mp3";
-                break;
-            case "11":
-                audioName = "Generic-Low.mp3";
-                break;
-            case "12":
-                audioName = "Grinder.mp3";
-                break;
-            case "13":
-                audioName = "Jet Landing.mp3";
-                break;
-            case "14":
-                audioName = "Jet Takeoff.mp3";
-                break;
-            case "15":
-                audioName = "Knife.mp3";
-                break;
-            case "16":
-                audioName = "Music-Classical.mp3";
-                break;
-            case "17":
-                audioName = "Music-Pop.mp3";
-                break;
-            case "18":
-                audioName = "Riveting.mp3";
-                break;
-            case "19":
-                audioName = "Silica Mill.mp3";
-                break;
-            case "20":
-                audioName = "Silica Screening Tower.mp3";
-                break;
-            case "21":
-                audioName = "Tinnitus-4K-Square.mp3";
-                break;
-            case "22":
-                audioName = "Turret.mp3";
-                break;
 
             default:
         }
