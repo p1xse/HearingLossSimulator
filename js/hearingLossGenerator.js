@@ -192,19 +192,7 @@ SoundEngine.prototype.loadSoundForeground = function () {
 
         switch (this.foregroundID) {
             case "0":
-                audioName = "Female.mp3";
-                break;
-            case "1":
-                audioName = "Male.mp3";
-                break;
-            case "2":
-                audioName = "OceanWaves.mp3";
-                break;
-            case "3":
-                audioName = "Forest.mp3";
-                break;
-            case "4":
-                audioName = "Restaurant.mp3";
+                audioName = "Directions.mp3";
                 break;
 
             default:
@@ -246,7 +234,7 @@ SoundEngine.prototype.loadSoundBackground = function () {
                 audioName = "AirTrackDrill.mp3";
                 break;
             case "1":
-                audioName = "Babble-Female.mp3";
+                audioName = "Restaurant.mp3";
                 break;
             case "2":
                 audioName = "Babble-Male.mp3";
